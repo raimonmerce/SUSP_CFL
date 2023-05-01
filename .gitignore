@@ -1,0 +1,14 @@
+CM_pred/
+EM_pred/
+train/
+test/
+trainsmall/
+testsmall/
+runs/
+CFLPytorch/
+runs/
+__pycache__/
+model_ResNet50_epoch1.pth
+model_ResNet50_epoch100.pth
+EquiConvsTFCFL.pth
+StdConvsTFCFL.pth
